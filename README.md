@@ -6,12 +6,9 @@
   </a>
 </p>
 
-## Serhat Hacıoğulları
-**SOC Analyst · Blue Team · DevSecOps**
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=870AF7&width=435&lines=YTU+Student;Aspiring+Cloud+Security+Specialist;Blue+Tean;DevSecOps" alt="Typing SVG" /></a>
-</div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0064F7&width=435&lines=YTU+Student;Blue+Team;DevSecOps" alt="Typing SVG" /></a>
+
 
 ---
 
