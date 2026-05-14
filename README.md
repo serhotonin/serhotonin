@@ -7,7 +7,7 @@
 </p>
 
 ## Serhat Hacıoğulları
-**Security Engineer · Blue Team · Threat Hunter**
+**SOC Analyst · Blue Team · DevSecOps**
 
 ---
 
