@@ -9,6 +9,10 @@
 ## Serhat Hacıoğulları
 **SOC Analyst · Blue Team · DevSecOps**
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=870AF7&width=435&lines=YTU+Student;Aspiring+Cloud+Security+Specialist;Blue+Tean;DevSecOps" alt="Typing SVG" /></a>
+</div>
+
 ---
 
 - 🔭 **Building:** [AETHER](https://github.com/serhotonin/AETHER) — Autonomous Endpoint Threat Hunter and Event Recorder, written in Go.
@@ -17,6 +21,18 @@
 - 💬 **Ask me about:** Python, Go, Wireshark, and Volatility.
 - 🏆 **Goal:** Working toward GCP Professional Cloud Security Engineer certification, with a long-term focus on cloud incident response.
 - 📫 **Reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhathaciogullari)
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,golang,linux,bash,gcp,aws,git,github,md" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=kali,docker" />
+</div>
+
+---
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
